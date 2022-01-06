@@ -40,10 +40,10 @@ let newString = a.slice(2,4);
 console.log(newString);
 
 // viết hoa tất cả các chữ trong string a
-console.log(a.toUpperCase);
+console.log(a.toUpperCase());
 
 // viết thường tất cả các chữ trong string a
-console.log(a.toLowerCase);
+console.log(a.toLowerCase());
 
 // Thay đổi nội dung string a từ "Hello" thành "Hi"
 a = "Hi";
